@@ -10,4 +10,4 @@ TSP问题博文链接：<http://zh.5long.me/2015/genetic-algorithm-on-tsp/>
 
 ##License
 
-algorithms-cuda is published under the MIT License (MIT) License. See the LICENSE file for more.
+tsp is published under the MIT License (MIT) License. See the LICENSE file for more.
