@@ -2,7 +2,6 @@
 
 import random
 import math
-import Tkinter
 from GA import GA
 
 class TSP(object):
@@ -98,7 +97,7 @@ class TSP(object):
 
 def main():
       tsp = TSP()
-      tsp.run(10000)
+      tsp.run(100)
 
 
 if __name__ == '__main__':

@@ -2,7 +2,13 @@
 
 import random
 import math
-import Tkinter
+import sys
+
+if sys.version_info.major < 3:
+      import Tkinter
+else:
+      import tkinter as Tkinter
+      
 from GA import GA
 
 
